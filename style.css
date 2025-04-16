@@ -1,0 +1,177 @@
+
+a:link { text-decoration: none; color: inherit; }
+a:visited { text-decoration: none; color: inherit; }
+a:hover { text-decoration: none; color: inherit; }
+
+*::-webkit-scrollbar-track{
+    -webkit-box-shadow: inset 0 0 1px rgba(0,0,0,0.9);
+    border-radius: 10px;
+    background-color: silver; }
+*::-webkit-scrollbar{
+    height: 10px;
+    width: 10px; }
+*::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background-color: #777;
+    background-image: -webkit-linear-gradient(90deg,
+    transparent,
+    rgba(0, 0, 0, 0.4) 50%,
+    transparent,
+    transparent) }
+
+a:focus,
+select:focus,
+textarea:focus,
+button:focus,
+input:focus { outline: none; }
+
+
+select,
+textarea,
+input,
+input[type=text],
+input[type=date],
+input[type=time],
+input[type=email],
+input[type=tel] {
+    letter-spacing: 2px;
+    font-family: 'Cormorant Garamond Light';
+    font-size: 14px;
+    padding: 4px 6px;
+}
+
+input[type=text],
+input[type=email],
+input[type=password] { width: 200px; }
+
+select,
+input[type=date],
+input[type=time] {
+    font-size: 14px;
+    cursor: pointer;
+}
+input[type=checkbox] {
+    height: 23px;
+    width: 23px;
+}
+button {
+    letter-spacing: 0.05em;
+    font-family: Georgia;
+    font-size: 16px;
+    width: 150px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+body {
+    background-color: #222;
+    line-height: 22px;
+    letter-spacing: 1px;
+    /* letter-spacing: 0.05em; */
+    font-family: Georgia;
+    font-weight: 100;
+    font-size: 16px;
+    color: white;
+    padding: 25px;
+    margin: 0;
+}
+
+#header,
+#menu {
+    background-color: #35d;
+    position: fixed;
+    font-family: Georgia;
+    color: #fff;
+    padding: 15px;
+}
+#header {
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 0;
+}
+#menuIcon {
+    position: fixed;
+    top: 5px;
+    left: 10px;
+    z-index: 2;
+    cursor: pointer;
+}
+#menu {
+    display: block;
+    top: 45px;
+    left: 10px;
+    width: 125px;
+    border: 2px solid black;
+    border-radius: 5px;
+    z-index: 2;
+}
+#menu button {
+    font-size: 16px;
+    letter-spacing: 0.05em;
+    font-family: Georgia, sans-serif;
+    width: 100%;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#webpage {
+    background-color: #35d;
+    max-height: 90%;
+    width: 90%;
+    font-family: Georgia;
+    color: #fff;
+    margin: auto;
+    margin-top: 35px;
+    padding: 15px;
+    border-radius: 5px;
+    border: 2px solid black;
+    z-index: 1;
+    overflow-y: auto;
+}
+
+#toc_panel {
+    background-color: #57f;
+    position: fixed;
+    top: 6%;
+    right: 35px;
+    width: 285px;
+    font-family: Georgia;
+    color: #fff;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+    z-index: 2;
+}
+
+#toc_table { display: none; }
+
+#toc_button,
+#toc_table button { width: 100%; }
+
+#toc_table button { margin: 2px 0; }
+
+#title {
+    text-align: center;
+    font-size: 20px;
+}
+pre {
+    background-color: #555;
+    line-height: 18px;
+    font-size: 14px;
+    padding: 10px;
+    border-radius: 2px;
+    overflow-x: auto; 
+}
+#divider { background-color: #35d; }
+
+/* Used in CSS-101 */
+.content {
+    background-color: #222;
+    padding: 15px;
+    border-radius: 3px;
+}
