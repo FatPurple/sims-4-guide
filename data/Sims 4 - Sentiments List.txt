@@ -1,0 +1,75 @@
+Sims 4 - Sentiments List
+
+
+The Sims 4 Base Game
+Sentiments came out only for Snowy Escape and the Sims 4 base game.
+
+Sentiment Name				Type		Description
+Adoring					Short Term	This Sim wants the best for another and thinks they're so wonderful!
+Awed by Lifesaving Hero			Long Term	This Sim was saved from the clutches of death by another Sim.
+Awkward After a Bad Date		Short Term	This Sim went on a date that was excruciatingly bad. Not their best moment. Cue cringeworthy memories whenever they see the other Sim.
+Ashamed of a Terrible Party		Short Term	This Sim can not believe how badly their party went. They worry that the other Sim must think they're no fun and probably never want to hang out again.
+Betrayed by Cheating			Long Term	Cheating soured this Sim's feelings about another, and being around them may bring back bad memories.
+Bitter About Breakup			Short Term	This Sim can't shake the resentment towards another about how their relationship ended. This Sim will be uncomfortable around them for a while.
+Close After a Close Call		Short Term	This Sim is endeared to another because they almost died.
+Closer After a Fun Party		Short Term	Celebrations have brought these Sims together, literally and emotionally. This Sim feels nice when spending time around other Sim due to those happy memories.
+Closer from Happy Memories		Short Term	This Sim feels close to the other Sim because of good times and happy memories they share.
+Deeply Connected			Long Term	This Sim has a powerful bond with the other Sim, and they're a source of strength and comfort to them.
+Deeply in Love				Long Term	Some romantic moments leave a powerful impression. This Sim will never forget how the other fell even deeper in love with them.
+Deeply Wounded				Long Term	Some wounds take a long time to heal. Being around the other Sim brings up painful memories for this Sim.
+Dejected About Rejection		Short Term	This Sim doesn't necessarily blame the other for turning them down, but it's still going to feel bad to be around them.
+Festering Grudge			Long Term	This Sim has a deep-seated grudge about another. This makes it harder to forget or forgive, so this Sim will feel unpleasant around them.
+Furious					Short Term	Just the sight of the other Sim gets on this Sim's nerves these days. They shouldn't dare show their face.
+Furious About Cheating			Short Term	This Sim can't believe the other Sim would do this to their relationship! Just the sight of them will remind them that they betrayed their trust and cheated on them.
+Growing Closer from Quality Time	Short Term	This Sim appreciates that the other Sim makes time for them. Time spent together seems to bring them closer together.
+Grudging After a Fight			Short Term	This Sim has unfinished business with another Sim. The conflict's unresolved and tensions are high, at least from this Sim's perspective!
+Guilty					Short Term	This Sim feels bad about something that happened with the other Sim, but doesn't know how to make it right.
+Heartbroken				Short Term	Love hurts, as this Sim is reminded when they think about the other.
+Hurt					Short Term	This Sim feels wrong by the other Sim, and being around them will remind this Sim of that pain.
+Impressed				Short Term	This Sim is respected by
+Infuriated About Canceling Wedding	Short Term	The other Sim humiliated this Sim in front of everyone at the wedding! Sim may have a hard time keeping calm around them for a while.
+Open-Hearted				Short Term	This Sim feels close to a recent addition to the family and presents them a warm welcome.
+Resentful About Divorce			Short Term	Resentment leftover from the divorce means this Sim is likely to not feel comfortable around the former spouse.
+Saddened				Short Term	It's disappointing to see a rift in a once-strong relationship. This Sim wishes things were different, and wonders if the other Sim feels the same way.
+Smitten					Short Term	Sim can't explain it, but they're really enamored with the other Sim and the sight of them makes this Sim's heart beat faster!
+
+
+Snowy Escape Sentiments
+The following Sentiments require you to have the new Snowy Escape Expansion Pack for The Sims 4.
+
+Sentiment Name					Type		Description
+Bitter About a Terrible Mountain Climb		Long Term	To come so far, only to have to turn back! This Sim's trust in the other Sim has been shaken, and they blame them for that dangerous excursion that ended in disappointment and frustration.
+Ashamed About a Terrible Mountain Climb		Long Term	This Sim led another Sim on an attempt to climb Mt. Komorebi, but it was a total failure and they were not they leader they thought they were. So close to the summit, yet so very far.
+Bitter About Hiking				Short Term	This Sim is never going to trust the hiking judgment of the other Sim again, after a terrible hiking experience.
+Bonded During Epic Mountain Climb		Long Term	This Sim and another shared an incredible adventure on Mt. Komorebi that forged a powerful bond between them.
+Brought Together by Hot Pot Meal		Short Term	This Sim bonded with another Sim over some tasty ot pot. Nothing like a warm meal in your belly and good company to share it with.
+Celebrated Together at the Festival of Snow	Short Term	This Sim had a blast partying in the snow with the other Sim at the Festival of Snow. So much to celebrate, so much snow.
+Close to a Confidant				Short Term	When this Sim became Confidants with the other Sim, their bond deepened in strength. They have a truly Close-Knit friendship!
+Comfortably Compatible Lifestyles		Short Term	This Sim found that sharing a Lifestyle with other Sim only deepened the attraction they feel.
+Deeply Enamored in a Winter Wonderland		Long Term	This Sim fell even more deeply in love with the other Sim on the enchanting snowy slopes of Mt. Komorebi
+Didn't Receive Blessing at Festival of Youth	Short Term	This Sim did not receive a blessing during the Festival of Youth, and it still stings. All the other kids got blessed, or so they think, anyway.
+Disrespected at the Festival of Light		Short Term	This Sim is enraged that the other Sim would go around flirting with others at the Festival of Light for all the world to see!
+Enchanted from a Moment in the Mountains	Short Term	This Sim's feelings for the other have really crystallized when they shared a romantic moment together, surrounded by the frozen beauty of Mt. Komorebi.
+Failed at Friendship				Short Term	This Sim values keeping their friends close, but their friendship with the other Sim has frayed and unraveled.
+First Kiss at the Festival of Light		Long Term	This Sim and the other shared a first kiss at the Festival of Light, and the sparks of romance are still burning bright.
+Fun at the Festival of Youth			Short Term	This Sim celebrated at the Festival of Youth and they will treasure that memory with the other Sim.
+Fun in the Snow					Short Term	A little fun in the snow is a reminder of the simple joys of life. This Sim wouldn't mind playing in the snow with the other Sim again sometime.
+Made a Wish Together at the Festival of Light	Short Term	This Sim and another Sim shared their hopes and dreams while making a wish together at the Festival of Light.
+Mountain Mastery Inspiration			Short Term	This Sim admires the other Sim's skill on the mountain. With that kind of role model to motivate them, they might learn skills faster while the other Sim is around.
+Neglected by a Workaholic			Short Term	This Sim blames the other Sim for always putting their work first and letting their relationship deteriorate.
+No Mountain High Enough for this Love		Long Term	This Sim should have been more careful while climbing up Mt. Komorebi, because now they have fallen deeply in love! Where the other Sim goes, this Sim wants to go, too, and no mountain can get in the way of their love.
+Opposite Attracted				Short Term	Opposites attract and this Sim has romantic feelings for the other Sim, even though they are very different.
+Personal Rift					Short Term	This Sim is a People Person, so the decline of their friendship with the other Sim is especially painful! It's hard not to take it personally...
+Played Together at the Festival of Snow		Short Term	This Sim had joyful memories of frozen fun with the other Sim at the Festival of Snow. That memorable experience will keep them feeling warmly toward the other Sim for a while!
+Resentful about a Failed Mountain Climb		Short Term	When the other Sim led an excursion to climb Mt. Komorebi, this Sim had high expectations. Their hopes were crushed and the summit remained out of reach.
+Snowy Vacation Memories				Short Term	This Sim has such fond memories of frolicking in the snow with the other Sim on vacation It was truly a memorable trip that has made them closer than before.
+Unity in Hiking					Short Term	Hiking through thick and thin, this Sim has grown a new fondness for the other Sim with the memories they have made together.
+Warmhearted from Relaxing Together		Short Term	This Sim had a real heart-to-heart moment while relaxing in the water together. Heating up the body can help a Sim warm up to people!
+
+
+
+
+
+
+
+

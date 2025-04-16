@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="../images/icon-dev.png" type="image/x-icon">
+    <link rel="stylesheet" href="../style.css">
+    <title>Sims 4 Aspirations Dictionary</title>
+    <style>
+        #page_menu {
+            background-color: #666;
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            padding: 5px;
+            border: 1px solid black;
+            border-radius: 5px;
+            z-index: 5;
+        }
+        #tocButton {
+            width:200px;
+        }
+        #toc {
+            display: none;
+            background-color: #666;
+            position: fixed;
+            top: 55px;
+            right: 10px;
+            padding: 10px;
+            border: 1px solid black;
+            border-radius: 5px;
+            z-index: 5;
+        }
+
+        #title {
+            background-color: #222;
+            position:fixed;
+            top:0;
+            left:0;
+            width:100%;
+            text-align:center;
+            padding: 15px;
+            border: 1px solid black;
+        }
+        #display_dictionary {
+            position:fixed;
+            top: 65px;
+            left: 1%;
+            height: 92%;
+            width: 98%;
+            overflow-y: auto;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="title">Sims 4 Aspirations Dictionary</div>
+    <div id="page_menu">
+        <a href="sims.html"><button style="width:200px;">Sims 4 Resources</button></a>
+        <button id="tocButton" onclick="showTOC()">Table of Contents</button>
+    </div>
+    <div id="toc"> <center> Table of Contents </center> </div>
+    <div id="display_dictionary"></div>
+
+    <script src="sims_dictionary.js"></script>
+    <script language="javascript" type="text/javascript">
+        const toc = document.getElementById("toc");
+        const display_dictionary = document.getElementById("display_dictionary");
+        let useDictionary = allCareers;
+        let collections = Object.keys(useDictionary);
+        collections.sort();
+
+        let collectionsLength = collections.length;
+        for (let c = 0; c < collectionsLength; c++) {
+
+            let display_data = "";
+            let thisCollectionName = collections[c];
+            let thisCollectionNameDisplay = thisCollectionName.replace(/_/g, ' ');
+            toc.innerHTML += `<a href="#${thisCollectionName}"><button>${thisCollectionNameDisplay}</button></a><br>`;
+            display_data += `<div style="width:99%; border:1px solid white; overflow-x:auto;">
+                <div id="${thisCollectionName}" style="margin:10px 15px;">${thisCollectionNameDisplay}</div>
+                <table style="width:2000px;">`;
+            let items = useDictionary[thisCollectionName];
+            let itemsLength = items.length;
+            for (let i = 0; i < itemsLength; i++) {
+                let thisItem = items[i];
+                display_data += `<tr>`;
+                let itemKeys = Object.keys(thisItem);
+                let keysLength = itemKeys.length;
+                for (let k = 0; k < keysLength; k++) {
+                    let key = itemKeys[k];
+                    if (key === "category") {}
+                    else {
+                        if (thisItem[key] && typeof thisItem[key] === 'string' && thisItem[key].includes(';')) {
+                            thisItem[key] = thisItem[key].replace(/;/g, '<br>');
+                        }
+                        display_data += `<td style="vertical-align:top; padding:0 10px; border:1px solid white;">${key}: <br>${thisItem[key]}</td>`;
+                    }
+                }
+                display_data += `</tr>`;
+            }
+            display_data += `</table></div></p>`;
+
+            display_dictionary.innerHTML += `${display_data}`;
+
+        }
+
+        function showTOC() {
+            if (toc.style.display === "none" || toc.style.display === "") { toc.style.display = "block" }
+            else { toc.style.display = "none" }
+        }
+        //showTOC();
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+

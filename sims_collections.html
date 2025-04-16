@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="../images/icon-dev.png" type="image/x-icon">
+    <link rel="stylesheet" href="../style.css">
+    <title>Sims 4 Collections Dictionary</title>
+    <style>
+        #page_menu {
+            background-color: #666;
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            padding: 5px;
+            border: 1px solid black;
+            border-radius: 5px;
+        }
+        #tocButton {
+            width:200px;
+        }
+        #toc {
+            display: none;
+            background-color: #666;
+            position: fixed;
+            top: 55px;
+            right: 10px;
+            padding: 10px;
+            border: 1px solid black;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div id="page_menu">
+        <a href="sims.html"><button style="width:200px;">Sims 4 Resources</button></a>
+        <button id="tocButton" onclick="showTOC()">Table of Contents</button>
+    </div>
+    <div id="toc"> <center> Table of Contents </center> </div>
+    <div id="display_dictionary">Sims 4 Collections Dictionary</div>
+
+    <script src="sims_dictionary.js"></script>
+    <script language="javascript" type="text/javascript">
+        const toc = document.getElementById("toc");
+        const display_dictionary = document.getElementById("display_dictionary");
+
+        let collections = Object.keys(allCollections);
+        collections.sort();
+        let collectionsLength = collections.length;
+
+        for (let c = 0; c < collectionsLength; c++) {
+            let thisCollectionName = collections[c];
+            let collectionNameDisplay = thisCollectionName.replace(/_/g, " ");
+
+            toc.innerHTML += `<a href="#${collectionNameDisplay}">
+                                <table style="background-color:#444; width:100%; margin:5px 0; padding:10px; border:1px solid black; border-radius:5px;">
+                                    <tr><td>Collection: ${collectionNameDisplay}</td></tr>
+                                </table>
+                            </a>`;
+
+            let itemCount = 0;
+
+            let display_collection = `<p id="${collectionNameDisplay}">
+                    <table><tr><td>Collection: ${collectionNameDisplay} <span id="itemCount-${c}"></span></td></tr></table>`; // Unique ID for the span
+
+            let items = allCollections[thisCollectionName];
+            let itemsLength = items.length;
+            let labelLength = 1;
+            let l = 0;
+
+            display_collection += `<table style="border:1px solid #555; border-radius:5px; overflow-y:scroll;">`;
+            for (let i = 0; i < itemsLength; i++) {
+                let thisItem = items[i];
+                let itemData = Object.keys(thisItem);
+                let keysLength = itemData.length;
+
+                let labelLength = keysLength;
+
+                while (l < labelLength) {
+                    let label = itemData[l];
+                    if (label === "collection") {}
+                    else { display_collection += `<td align="center" style="border-bottom:1px solid #555;">${label} </td>`; }
+                    l++;
+                }
+
+                display_collection += `<tr>`;
+                for (let k = 0; k < keysLength; k++) {
+                    let key = itemData[k];
+                    let checkField = key;
+                    if (checkField === "collection") {}
+                    else {
+                        if (checkField === "harvest") {
+                            thisItem[key] = thisItem[key].replace(/,/g, '<br>');
+                        }
+                        if (thisItem[key] && typeof thisItem[key] === 'string' && thisItem[key].includes(';')) {
+                            thisItem[key] = thisItem[key].replace(/;/g, '<br>');
+                        }
+                        display_collection += `<td style="vertical-align:top; padding:5px 10px; border-bottom:1px solid #555;">${thisItem[key]}</td>`;
+                    }
+                }
+                display_collection += `</tr>`;
+                itemCount++;
+            }
+            display_collection += `</table></p>`;
+
+            display_dictionary.innerHTML += display_collection;
+
+            // Get the specific span element for this collection and update its content
+            const itemCountSpan = document.getElementById(`itemCount-${c}`);
+            if (itemCountSpan) { itemCountSpan.textContent = `(${itemCount})`;  }
+        }
+
+        function showTOC() {
+            if (toc.style.display === "none" || toc.style.display === "") { toc.style.display = "block" }
+            else { toc.style.display = "none" }
+        }
+        //showTOC();
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+

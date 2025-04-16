@@ -1,0 +1,444 @@
+Sims 4 - Collections List
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Alien Collection: 10
+Exploring Space (Rocket Ship). All Live Specimen have an Environment +3. All Live Specimen have a Confident +3.
+collection	name			rarity		value	method		effect		pack
+Aliens		Dead Blue Slug		Common		150	Explore Space	Confident 3	Standard
+Aliens		Dead Pink Whale		Common		150	Explore Space	Confident 3	Standard
+Aliens		Dead Red Coral		Common		150	Explore Space	Confident 3	Standard
+Aliens		Dead Space Porcupine	Common		150	Explore Space	Confident 3	Standard
+Aliens		Dead Space Squid	Uncommon	150	Explore Space	Confident 3	Standard
+Aliens		Live Blue Slug		Rare		165	Explore Space	Environment 3	Standard
+Aliens		Live Pink Whale		Uncommon	165	Explore Space	Environment 3	Standard
+Aliens		Live Red Coral		Uncommon	165	Explore Space	Environment 3	Standard
+Aliens		Live Space Porcupine	Common		165	Explore Space	Environment 3	Standard
+Aliens		Live Space Squid	Rare		165	Explore Space	Environment 3	Standard
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Crystal Collection: 20
+Digging up Rocks found around the game's Neighborhoods, Parks, and Secret Areas. 
+collection	name		rarity		value	effect		elements			pack
+Crystal		Alabaster	Common		$25	Energize 3	Selinium, Alcineat		Standard
+Crystal		Amethyst	Uncommon	$55	Energize 3	Oxypin, Volenton		Standard
+Crystal		Citrine		Common		$25	Energize 3	Ozinate, Plathinum		Standard
+Crystal		Diamond		Uncommon	$90	Energize 3	Plathinum, Firaxium		Standard
+Crystal		Emerald		Common		$20	Energize 3	Goobleck, Sydrolin		Standard
+Crystal		Fire Opal	Uncommon	$70	Energize 3	Selium, Plathium, Crytacoo	Standard
+Crystal		Hematite	Uncommon	$60	Energize 3	Wolfium				Standard
+Crystal		Jet		Rare		$140	Energize 3	Wolfium, Plathium, Plumbobus	Standard
+Crystal		Jonquilyst	Rare		$145	Energize 3	Crytacoo, Phozone		Standard
+Crystal		Orange Topaz	Common		$15	Energize 3	Phozone, Selium			Standard
+Crystal		Peach		Common		$15	Energize 3	Alcineat, Sydrolin		Standard
+Crystal		Plumbite	Rare		$160	Energize 3	Phozone, Plumbobus		Standard
+Crystal		Quartz		Common		$30	Energize 3	Sydrolin, Volenton		Standard
+Crystal		Rainborz	Rare		$150	Energize 3	Firaxium, Peryllium, Melacoo	Standard
+Crystal		Rose		Common		$20	Energize 3	Phozone, Peryllium		Standard
+Crystal		Ruby		Common		$30	Energize 3	Sydrolin, Peryllium		Standard
+Crystal		Sapphire	Common		$15	Energize 3	Melacoo				Standard
+Crystal		Shinolite	Uncommon	$60	Energize 3	Alcineat, Wolfium		Standard
+Crystal		Simanite	Uncommon	$60	Energize 3	Ozinate, Volenton		Standard
+Crystal		Turquoise	Common		$20	Energize 3	Oxypin, Alcineat		Standard
+Crystal		Crandestine	Common		$40	Energize 3	Xenopetrium, Crytacoo		Get To Work
+Crystal		Nitelite	Common		$50	Energize 3	Xenopetrium, Phozone, Volenton	Get To Work
+Crystal		Alexandrite	Rare		$186	Energize 3	Firaxium, Goobleck, Oxylin	Jungle Adventure
+Crystal		Amazonite	Uncommon	$102	Energize 3	Crytacoo, Melacoo, Sealium	Jungle Adventure
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Element Collection: 15
+Gathering Crystals and Metals from digging Rocks found around Sims 4 Neighborhoods, Secret Areas, and Parks. Sending it to the Geo Council will give you a chance to get one of the Elements from that collectible in the mail the following day.
+collection	name		rarity		value	effect	from_crystals					from_metals					pack
+Element		Alcineat	Common		$10	Focus 3	Peach, Alabaster, Turquoise, Shinolite		Obtanium, Ozinold, Furium			Standard
+Element		Crytacoo	Rare		$140	Focus 3	Fire Opal, Jonquilyst				Crytunium, Literalite				Standard
+Element		Firaxium	Rare		$160	Focus 3	Diamond, Rainborz				Furium, Sadnum					Standard
+Element		Goobleck	Common		$10	Focus 3	Emerald	Plathinum, 				Heavy Metal, Obtanium				Standard
+Element		Melacoo		Common		$15	Focus 3	Sapphire, Rainborz				Pyrite, Flamingonium, Romantium			Standard
+Element		Oxypin		Common		$15	Focus 3	Turquoise, Amethyst				Punium, Furium					Standard
+Element		Ozinate		Common		$20	Focus 3	Citrine, Simanite				Ozinold, Baconite, Death Metal			Standard
+Element		Peryllium	Uncommon	$40	Focus 3	Rose, Ruby, Rainborz				Socialite, Flamingonium, Romantium		Standard
+Element		Phozone		Common		$10	Focus 3	Orange Topaz, Rose, Plumbite, Jonquilyst	Phozonite, Heavy Metal, Pyrite			Standard
+Element		Plathium	Uncommon	$35	Focus 3	Fire Opal, Jet					Plathinum, Death Metal, Ironyum			Standard
+Element		Plumbobus	Rare		$175	Focus 3	Jet, Plumbite					Simtanium, Romantium, Sadnum			Standard
+Element		Selium		Common		$10	Focus 3	Fire Opal, Orange Topaz				Utranium, Alcron, Simtanium, Literalite, Sadnum	Standard
+Element		Sydrolin	Common		$10	Focus 3	Quartz, Ruby, Peach, Emerald			Alcron, Baconite				Standard
+Element		Volenton	Uncommon	$45	Focus 3	Quartz, Amethyst, Simanite			Crytunium, Socialite, Literalite		Standard
+Element		Wolfium		Uncommon	$55	Focus 3	Hematite, Shinolite, Jet			Ironyum, Simtanium				Standard
+Element		Xenopetrium	Uncommon	$80	Focus 3	Nitelite, Crandestine				Blutonium, Solarium				Get To Work
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fish Collection: 25
+Fishing the various spots found around the game's Neighborhoods, Parks, and Secret Areas.
+collection	name			size	rarity		value		fertilizer	location_bait							pack
+Fish		Angelfish		S	Uncommon	$14-$20		Low	Behind Willow Creek Library.; Forgotten Grotto.; Sylvan Glade.		Standard
+Fish		Anglerfish		M	Rare		$38-$350	Med	Use Bass, Salmon, or Catfish as Bait.; Forgotten Grotto.; Sylvan Glade.	Standard
+Fish		Bass			M	Common		$16-$70		Medium	Most Fishing Spots.							Standard
+Fish		Batfish			M	Rare		$119-$278	Med	Forgotten Grotto.							Standard
+Fish		Betta			S	Uncommon	$11-$20		Low	Willow Creek Park Pond.							Standard
+Fish		Captain Fishbones Bonefish	S	Rare	$10-$25		Low	Oasis Spring's Park.; Sylvan Glades.					Standard
+Fish		Catfish			M	Uncommon	$43-$107	Med	Plants as Bait.; Commonly in Rivers.					Standard
+Fish		Goldfish		S	Common		$12-$15		Low	Willow Creek Park Pond.; Oasis Springs Park Pond.			Standard
+Fish		Gummie Guppie		S	Rare		$15-30		Low	Oasis Springs Park.; Sylvan Glade Waterfall.				Standard
+Fish		Guppy			S	Common		$7-$10		Low	Oasis Springs Park Pond.						Standard
+Fish		Kissing Gourami		S	Uncommon	$16-$18		Low	Commonly in Rivers.							Standard
+Fish		Koi			M	Common		$24-$37		Med	Willow Creek Park Pond.; Oasis Springs Park Pond.			Standard
+Fish		Minnow			S	Common		$7-$9		Low	Most Fishing Spots.							Standard
+Fish		Perch			S	Common		$10-$13		Low	Most Fishing Spots.							Standard
+Fish		Piranha			S	Rare		$19-$27		Low	Medium Fish as bait.; Willow Creek Pond.; Pool behind Oasis Springs Park.	Standard
+Fish		Rainbowfish		M	Rare		$65-$85		Med	Forgotten Grotto.; Sylvan Glade Waterfall.				Standard
+Fish		Red-Tailed Black Shark	S	Rare		$18-$22		Low	Small Fish as Bait.; Willow Creek Park Pond.; Back of Oasis Springs park, up the hills at the 2nd fishing spot with a river cave near the entrance to Forgotten Grotto.	Standard
+Fish		Salmon			L	Common		$90-$342	High	Most Fishing Spots.							Standard
+Fish		Sturgeon		L	Rare		$140-$350	High	Willow Creek Park Pond.; Forgotten Grotto.; Pool behind Oasis Springs Park.	Standard
+Fish		Tetra			S	Common		$6-$11		Low	Willow Creek Park River.						Standard
+Fish		Tilapia			M	Uncommon	$54-$62		Med	Sylvan Glade Waterfall.							Standard
+Fish		Treefish		M	Rare		$151-$375	Med	Willow Creek Park Pond.; Sylvan Glade Pond.				Standard
+Fish		Trout			M	Common		$19-$113	Med	Oasis Springs Park Pond.						Standard
+Fish		Wolf Eel		L	Uncommon	$108-$364	High	Frog as Bait.; Forgotten Grotto.					Standard
+Fish		Pufferfish		S	Rare		$67-$100	High	San Myshuno docks.; Can be purchased at a vendor in the city.		City Living
+Fish		Tuna			L	Common		$50-$90		High	Most Fishing Spots.; San Myshuno docks.					City Living
+Fish		Cichlid			S	Common		$10-$20		Medium	Most fishing spots.							Get To Work
+Fish		Celestial Grouper	M	Common		$15-20		Low	(Sulani).; Most Fishing Spots.						Island Living
+Fish		Clownfish		S	Common		$15-18		Low	(Sulani).; Most Fishing Spots.						Island Living
+Fish		Mahi Mahi		L	Common		$90-120		Low	(Sulani).; Deep ocean water.						Island Living
+Fish		Neon Angelfish		S	Common		$15-22		Low	(Sulani).; Most Fishing Spots.						Island Living
+Fish		Bluefin Tuna		L	Uncommon	$150-175	High	(Sulani).; Endangered Species.; Most Fishing Spots.			Island Living
+Fish		Butterflyfish		M	Uncommon	$30-40		Med	(Sulani).; Mua Pel'am Oceanic Paradise lot.				Island Living
+Fish		Fighting Plakat		S	Uncommon	$18-26		Low	(Sulani).; Most Fishing Spots.						Island Living
+Fish		Parrotfish		L	Uncommon	$60-75		High	(Sulani).; Most Fishing Spots.						Island Living
+Fish		Golden Mahi Mahi	L	Rare		$250-350	High	(Sulani).; Endangered Species.; Deep ocean water.			Island Living
+Fish		Green Plakat		S	Rare		$30-45		Med	(Sulani).; Most Fishing Spots.						Island Living
+Fish		Leopard Shark		M	Rare		$100-135	High	(Sulani).; Endangered Species. Near shipwreck house at Mua Pel'am.	Island Living
+Fish		Royal Sabrefish		L	Rare		$300-400	High	(Sulani).; Endangered Species.; Deep ocean water.			Island Living
+Fish		Scorpionfish		L	Rare		$100-130	High	(Sulani).; Near shipwreck house on Mua Pel'am.				Island Living
+Fish		Swordfish		L	Rare		$200-250	High	(Sulani).; Deep ocean water.						Island Living
+Fish		Tambaqui		L	Common		$60-$90		Med	(Selvadorada).; Most Fishing Spots.					Jungle Adventure
+Fish		Armored Catfish		M	Uncommon	$50-$??		Med	Under Omiscan Royal Baths.; *Take left doorway when facing the temple gateway.		Jungle Adventure
+Fish		Electric Eel		L	Rare		$50-$??		Med	Near the temple entrance. *Take the right gateway when facing the temple entrance.	Jungle Adventure
+Fish		Walleye			M	Common		$22-81		Med	(Granite Falls).; Most Fishing Spots.					Outdoor Retreat
+Fish		Yellow Perch		M	Common		$24-43		Med	(Granite Falls).; Most Fishing Spots.					Outdoor Retreat
+Fish		Red Crawdad		S	Uncommon	$11-16		Low	(Granite Falls).; Most Fishing Spots.					Outdoor Retreat
+Fish		Blue Crawdad		S	Rare		$50-81		High	(Granite Falls).; Deep Woods Waterfall.					Outdoor Retreat
+Fish		Mountain Lionfish	L	Rare		$166-$300	High	(Granite Falls).; Deep Woods Waterfall.					Outdoor Retreat
+Fish		Discus			M	Uncommon	$35-50		Med	Willow Creek business strip.; Oasis Springs business strip.		Spa Day
+Fish		Exotic Goldfish		S	Uncommon	$30-60		Med	Sylvan Glade Waterfall.							Spa Day
+Fish		Vampire Squid		M	Rare		$50-$??		Med	Forgotten Hollow.; *Easy catch at level 10 with no bait.		Vampires
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fossil Collection: 15
+Digging up Rocks found around the game's Neighborhoods, Parks, and Secret Areas. Extract them by clicking it in the Sim's Inventory. The Fossil you get is random.
+collection	name				rarity		value	effect		pack
+Fossil		Enormous Trilobite		Common		$40	Environment 3	Standard
+Fossil		Fossilized Alien Skull		Rare		$250	Environment 3	Standard
+Fossil		Fossilized Egg			Common		$70	Environment 3	Standard
+Fossil		Fossilized Plant Imprint	Common		$70	Environment 3	Standard
+Fossil		Fossilized Raptor Claw		Common		$70	Environment 3	Standard
+Fossil		Fossilized Sea Monster		Common		$50	Environment 3	Standard
+Fossil		Fossilized Sim Hand		Common		$45	Environment 3	Standard
+Fossil		Fossilized Udder		Uncommon	$85	Environment 3	Standard
+Fossil		Fossilized Whatzit		Rare		$175	Environment 3	Standard
+Fossil		Hilariously Tiny T-Rex Arms	Common		$45	Environment 3	Standard
+Fossil		Perfectly Preserved Mustache	Uncommon	$100	Environment 3	Standard
+Fossil		Pre-Historic Hoofprint		Common		$40	Environment 3	Standard
+Fossil		Pre-Pre-Pre Sim Head		Rare		$225	Environment 3	Standard
+Fossil		Prehistoric Bird		Uncommon	$75	Environment 3	Standard
+Fossil		Prehistoric Rock		Common		$15	Environment 3	Standard
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Frog Collection: 25
+Searching Logs, Water Pumps, Ponds found around the game's Neighborhoods, Parks, and Secret Areas. Breed Frogs to produce a new type. Only doable every so often, and Frogs aren't lost in the process. When placed, all Frogs give Environment +3.
+collection	name			value	rarity		effect		pack
+Frog		Bullseye Frog		$100	Rare		Environment 3	Standard
+Frog		Dirt Frog		$10	Common		Environment 3	Standard
+Frog		Dirt Surfer Frog	$100	Uncommon	Environment 3	Standard
+Frog		Dirt Whirl Frog		$120	Uncommon	Environment 3	Standard
+Frog		Eggplant Frog		$10	Common		Environment 3	Standard
+Frog		Eggplant Whirl Frog	$100	Rare		Environment 3	Standard
+Frog		Heart Frog		$10	Common		Environment 3	Standard
+Frog		Heart Surfer Frog	$25	Rare		Environment 3	Standard
+Frog		Hypno Frog		$25	Uncommon	Environment 3	Standard
+Frog		Leaf Frog		$10	Common		Environment 3	Standard
+Frog		Leopard Frog		$100	Uncommon	Environment 3	Standard
+Frog		Spotted Dirt Frog	$30	Common		Environment 3	Standard
+Frog		Spotted Eggplant Frog	$10	Uncommon	Environment 3	Standard
+Frog		Spotted Heart Frog	$30	Uncommon	Environment 3	Standard
+Frog		Spotted Leaf Frog	$10	Common		Environment 3	Standard
+Frog		Striped Dirt Frog	$30	Common		Environment 3	Standard
+Frog		Striped Eggplant Frog	$10	Uncommon	Environment 3	Standard
+Frog		Striped Heart Frog	$10	Uncommon	Environment 3	Standard
+Frog		Striped Leaf Frog	$10	Common		Environment 3	Standard
+Frog		Sun Surfer Frog		$125	Rare		Environment 3	Standard
+Frog		Sunflower Frog		$30	Uncommon	Environment 3	Standard
+Frog		Surfer Eggplant Frog	$30	Rare		Environment 3	Standard
+Frog		Surfer Leaf Frog	$10	Uncommon	Environment 3	Standard
+Frog		Tiger Frog		$35	Uncommon	Environment 3	Standard
+Frog		Whirlyflower Frog	$160	Rare		Environment 3	Standard
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Geode Collection (Get to Work Expansion Pack): 6
+Digging up Rocks found around the planet Sixam.
+collection	name			value	rarity	effect	pack
+Geode		Corbut			$50	Common	?	Get to Work
+Geode		Eye of the Stormbore	$50	Common	?	Get to Work
+Geode		Glumbut			$50	Common	?	Get to Work
+Geode		Mylom's Tonic		$50	Common	?	Get to Work
+Geode		Star Flake		$50	Common	?	Get to Work
+Geode		Zarinne			$50	Common	?	Get to Work
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Insect Collection (Outdoor Retreat Game Pack): 21
+Throughout the Forests in Granite Falls, Outdoor Retreat's Vacation area.
+collection	name			rarity		value	time			location				pack
+Insect		Bee			Common		$4	Morning; Afternoon	Campgrounds.; Forest.; Deep Woods.	Outdoor Retreat
+Insect		Blue Morpho Butterfly	Common		$4	Day; Evening		Campgrounds.; Forest.; Deep Woods.	Outdoor Retreat
+Insect		Dragon Dragonfly	Rare		$600	Day			Deep Woods (Waterfall).			Outdoor Retreat
+Insect		Dragonfly		Uncommon	$15	Day			Campgrounds.; Forest.; Deep Woods.	Outdoor Retreat
+Insect		Dust Spirit		Rare		$200	Evening; Night		Forest.; Deep Woods			Outdoor Retreat
+Insect		Fire Ant		Common		$3	Day; Evening		Campgrounds.; Forest.; Deep Woods.	Outdoor Retreat
+Insect		Firefly			Common		$4	Night			Campgrounds.; Forest.; Deep Woods.	Outdoor Retreat
+Insect		Jewel Beetle		Uncommon	$15	Day			Campgrounds.; Forest.; Deep Woods.	Outdoor Retreat
+Insect		Jezebel Butterfly	Common		$3	Day; Evening		Campgrounds.; Forest.; Deep Woods.	Outdoor Retreat
+Insect		Katydid			Common		$4	Day; Evening		Campgrounds.; Forest.; Deep Woods.	Outdoor Retreat
+Insect		Ladybug			Common		$4	All Times		Campgrounds.; Forest.; Deep Woods.	Outdoor Retreat
+Insect		Locust			Uncommon	$15	Day			Campgrounds.; Forest.			Outdoor Retreat
+Insect		Luna Moth		Common		$4	Day; Night		Campgrounds.; Forest.; Deep Woods.	Outdoor Retreat
+Insect		Mantis			Uncommon	$15	Day			Campgrounds.; Forest.; Deep Woods.	Outdoor Retreat
+Insect		Monarch Butterfly	Uncommon	$15	Day			Forest.; Deep Woods.			Outdoor Retreat
+Insect		Mosquito		Common		$4	Day; Night		Campgrounds.; Forest.; Deep Woods.	Outdoor Retreat
+Insect		Rainbow Firefly		Rare		$75	Night			Forest.; Deep Woods.			Outdoor Retreat
+Insect		Stink Bug		Common		$4	Day; Evening		Campgrounds.; Forest.			Outdoor Retreat
+Insect		Termite			Common		$3	Day; Evening		Campgrounds.; Forest.; Deep Woods.	Outdoor Retreat
+Insect		Walking Stick		Uncommon	$12	Day			Deep Woods (Herb Garden).		Outdoor Retreat
+Insect		Will-o-the-Wisp		Rare		$150	Night			Forest.; Deep Woods.			Outdoor Retreat
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Metal Collection: 20
+Digging up Rocks found around the game's Neighborhoods, Parks, and Secret Areas.
+collection	name		rarity		value	effect		elements			pack
+Metal		Alcron		Common		$10	Environment 3	Sydrolin, Selium		Standard
+Metal		Baconite	Common		$25	Environment 3	Sydrolin, Ozinate		Standard
+Metal		Crytunium	Uncommon	$75	Environment 3	Volenton, Crytacoo		Standard
+Metal		Death Metal	Uncommon	$60	Environment 3	Plathium, Ozinate		Standard
+Metal		Flamingonium	Uncommon	$75	Environment 3	Melacoo, Peryllium		Standard
+Metal		Furium		Rare		$140	Environment 3	Firaxium, Oxypin, Alcineat	Standard
+Metal		Heavy Metal	Common		$30	Environment 3	Phozone, Goobleck		Standard
+Metal		Ironyum		Uncommon	$80	Environment 3	Wolfium, Plathium		Standard
+Metal		Literalite	Rare		$125	Environment 3	Selium, Volenton, Crytacoo	Standard
+Metal		Obtanium	Common		$25	Environment 3	Alcineat, Goobleck		Standard
+Metal		Ozinold		Common		$25	Environment 3	Ozinate, Alcineat		Standard
+Metal		Phozonite	Common		$15	Environment 3	Phozone				Standard
+Metal		Plathinum	Common		$20	Environment 3	Goobleck, Plathium		Standard
+Metal		Punium		Common		$30	Environment 3	Oxypin				Standard
+Metal		Pyrite		Common		$10	Environment 3	Melacoo, Phozone		Standard
+Metal		Romantium	Rare		$150	Environment 3	Melacoo, Peryllium, Plumbobus	Standard
+Metal		Sadnum		Rare		$155	Environment 3	Selium, Plumbobus, Firaxium	Standard
+Metal		Simtanium	Uncommon	$90	Environment 3	Selium, Wolfium, Plumbobus	Standard
+Metal		Socialite	Uncommon	$80	Environment 3	Peryllium, Volenton		Standard
+Metal		Utranium	Common		$25	Environment 3	Selium				Standard
+Metal		Blutonium	Common		$25	Environment 3	Xenopetrium, Plathium		Get To Work
+Metal		Solarium	Common		$25	Environment 3	Xenopetrium, Oxypin, Wolfium	Get To Work
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Microscope Print Collection: 12
+Use the Microscope. Take samples from Crystals, Fossils, and Plants. Each Print comes with an Emotional Aura.
+collection		name			value	rarity		action				pack
+Microscope Print	Blemish Blossom		$220	Uncommon	Analyze Plant Sample		Standard
+Microscope Print	Cell Block		$220	Uncommon	Use Microscope Regularly	Standard
+Microscope Print	Crystal Palace		$485	Rare		Analyze Crystal Sample		Standard
+Microscope Print	Falling			$215	Uncommon	Use Microscope Regularly	Standard
+Microscope Print	Hooplankton		$100	Common		Use Microscope Regularly	Standard
+Microscope Print	Leaf Meat		$445	Rare		Analyze Fossil Sample		Standard
+Microscope Print	Party in Pink		$115	Common		Use Microscope Regularly	Standard
+Microscope Print	Psychedelic Rock	$110	Common		Use Microscope Regularly	Standard
+Microscope Print	Rhapsody in Blue	$95	Common		Analyze Plant Sample		Standard
+Microscope Print	Snow Fight		$110	Common		Analyze Crystal Sample		Standard
+Microscope Print	The Drifter		$105	Common		Use Microscope Regularly	Standard
+Microscope Print	Trace Remains		$255	Uncommon	Analyze Fossil Sample		Standard
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MySims Trophy Collection: 20
+In Capsules obtained by digging up Rocks found around the game's Neighborhoods, Parks, and Secret Areas. 
+collection	name		rarity		value	effect		pack
+MySims Trophy	Buddy		Common		$25	Playful 3	Standard
+MySims Trophy	Chaz McFreely	Common		$15	Playful 3	Standard
+MySims Trophy	Chef Gino	Common		$20	Playful 3	Standard
+MySims Trophy	DJ Candy	Common		$20	Playful 3	Standard
+MySims Trophy	Dr. F		Uncommon	$75	Playful 3	Standard
+MySims Trophy	Elmira Clamp	Common		$20	Playful 3	Standard
+MySims Trophy	Gonk		Common		$25	Playful 3	Standard
+MySims Trophy	Goth Boy	Rare		$100	Playful 3	Standard
+MySims Trophy	Hopper		Common		$20	Playful 3	Standard
+MySims Trophy	Jenny		Uncommon	$50	Playful 3	Standard
+MySims Trophy	Leaf		Uncommon	$60	Playful 3	Standard
+MySims Trophy	Lyndsay		Uncommon	$65	Playful 3	Standard
+MySims Trophy	Morcubus	Uncommon	$75	Playful 3	Standard
+MySims Trophy	Ol' Gabby	Common		$25	Playful 3	Standard
+MySims Trophy	Poppy		Common		$20	Playful 3	Standard
+MySims Trophy	TOBOR		Rare		$140	Playful 3	Standard
+MySims Trophy	Trevor Verily	Uncommon	$60	Playful 3	Standard
+MySims Trophy	Violet		Rare		$125	Playful 3	Standard
+MySims Trophy	Yuki		Common		$25	Playful 3	Standard
+MySims Trophy	Zombie Carl	Rare		$130	Playful 3	Standard
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Postcard Collection: 14
+Postcards may be collected by finding Pen Pals on the Computer and requesting them. Simply go to the Socialize menu on the Computer, then Find a Pen Pal. After several hours, check for responses. Then, write to that Pen Pal. After a short time, you can ask for a Postcard from that location. It may take several tries asking for a Postcard to get one in the mail (especially for the Rare).
+collection	name			rarity		value	effect		pack
+Postcard	Appaloosa Plains	Common		$20	Inspire 1	Standard
+Postcard	Barnacle Bay		Uncommon	$55	Inspire 1	Standard
+Postcard	Bridgeport		Common		$20	Inspire 1	Standard
+Postcard	Champs Les Sims		Uncommon	$60	Inspire 1	Standard
+Postcard	Dragon Valley		Rare		$135	Inspire 1	Standard
+Postcard	Isla Paradiso		Rare		$120	Inspire 1	Standard
+Postcard	Littlehaven		Common		$20	Inspire 1	Standard
+Postcard	Lucky Palms		Common		$20	Inspire 1	Standard
+Postcard	Lunar Lakes		Uncommon	$50	Inspire 1	Standard
+Postcard	Midnight Hollow		Uncommon	$50	Inspire 1	Standard
+Postcard	Moonlight Falls		Common		$20	Inspire 1	Standard
+Postcard	Riverview		Common		$20	Inspire 1	Standard
+Postcard	Sunset Valley		Common		$20	Inspire 1	Standard
+Postcard	Twinbrook		Common		$20	Inspire 1	Standard
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Space Print Collection: 15
+Observing the Sky, Stargazing, and Searching for the Truth
+collection	name			rarity		value	effect	action			pack
+Space Print	Animal's Planet		Common		$115	?	Observe the Sky		Standard
+Space Print	Battle Stars		Rare		$495	?	Search for the Truth	Standard
+Space Print	Big Star		Common		$140	?	Stargaze		Standard
+Space Print	Cloudy Vision		Uncommon	$265	?	Search for the Truth	Standard
+Space Print	End of Time		Common		$135	?	Stargaze		Standard
+Space Print	I Dream of Pleiosaur	Uncommon	$215	?	Observe the Sky		Standard
+Space Print	Out of this World Style	Common		$105	?	Observe the Sky		Standard
+Space Print	Rosie the Riveting	Common		$125	?	Stargaze		Standard
+Space Print	Saturn Return		Uncommon	$290	?	Stargaze		Standard
+Space Print	Seeing Red		Common		$110	?	Observe the Sky		Standard
+Space Print	Standard Space		Common		$130	?	Stargaze		Standard
+Space Print	Star Crossed Lovers	Uncommon	$210	?	Observe the Sky		Standard
+Space Print	Surfacing		Rare		$475	?	Search for the Truth	Standard
+Space Print	T-Rex Nebula		Rare		$465	?	Stargaze		Standard
+Space Print	Twinkle			Uncommon	$285	?	Stargaze		Standard
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Space Rock Collection: 4
+Exploring Space (Rocket Ship). All have an Environment +3. Unnaturally Large Space Rock has Environment +5.
+collection	name				rarity		value	effect		action		pack
+Space Rock	Common Space Rock		Common		$95	Environment 3	Explore Space	Standard
+Space Rock	Large Space Rock		Uncommon	$145	Environment 3	Explore Space	Standard
+Space Rock	Uncommon Space Rock		Uncommon	$200	Environment 3	Explore Space	Standard
+Space Rock	Unnaturally Large Space Rock	Rare		$275	Environment 5	Explore Space	Standard
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Plant Collection: 35(Standard) / 71(Total)
+Seed Packets. Searching Plants found around the game's Neighborhoods, Parks, and Secret Areas. Grafting various Plants together.
+Name			Rarity		Harvest?	Value	Growth	Where to Find/Special Graft Combo
+Apple			Common		Fall		$3	36h	Seed Packet
+Basil			Common		Summer, Fall	$2	24h	Seed Packet
+Blackberry		Rare		Summer		$3	96h	Oasis Springs - near the dirt path beside the big Park.
+Blue Bells		Common		Spring, Summer	$2	36h	Seed Packet
+Bird of Paradise	Rare		Spring, Summer	$51	36h	Found in Rare Seed packets (buy on computer/buy mode with high level gardening). Graft Tulip with Chrysanthemum
+Bonsai Buds		Rare		All Year	$35	24h	Found in Rare Seed packets (buy on computer/buy mode with high level gardening). Graft Daisy and Strawberry or Grapes and Roses. May be made into a Decorative Bonsai Bush for $25.
+Carrot			Common		Spring, Fall	$3	24h	Seed Packet
+Cherry			Uncommon	Summer		$8	60h	Oasis Springs - Behind the Park by Springscape.
+Chrysanthemum		Common		Summer, Fall	$10	36h	Seed Packet
+Cow Berry		Rare		All Year	$180	24h	Graft Dragonfruit with Snapdragon. Cow Plant berries have been found while Fishing at the glimmering stream with a cave in Oasis Springs' Big Park, as well as Sylvan Glade's larger body of water. These may also be found while on missions in the Rocket Ship via the Rocket Science Skill. More on Cow Plants Below.
+Daisy			Common		Spring		$2	24h	Seed Packet
+Death Flower		Rare		Winter		$240	48h	Found in Rare Seed packets (buy on computer/buy mode with high level gardening). Graft Orchid with Pomegranate. It does not stop a Sim's death immediately as it did in TS3. In The Sims 4, you need another Sim to give Grim a Death Flower after he's done arriving to take the soul. He'll accept it and bring the dead Sim back to life. Death Flower is also used in the Gourmet Cooking Ambrosia Recipe (to resurrect Ghosts Sims).
+DragonFruit		Rare		Fall		$250	96h	Found in Rare Seed packets (buy on computer/buy mode with high level gardening). Also Graft Strawberry with Snapdragon.
+Grapes			Common		Fall		$8	48h	Seed Packet. You may also produce these by grafting Bluebells with Strawberry.
+Growfruit		Rare		All Year	$30	80h	Originally part of the spring challenge and not a part of the Gardening Plant collection. Sometimes found when you purchase rare seed packets from the computer or buy mode (level 10 Gardening). Perfect Growfruit are almost as good as heavy Treefish when used as a fertilizer.
+Lemon			Common		All Year?	$6	60h	Oasis Springs - Across the street from Rattlesnake Juice in the dirt area. Also at end of road by Museum.
+Lily			Uncommon	Summer		$36	36h	Willow Creek Park, also in front of Oakenstead
+Mushroom		Common		Spring, Fall	$1	24h	Seed Packet
+Onion			Uncommon	Fall, Winter	$6	48h	Willow Creek, Rendle Rose (House), also across the stream from Agave Adobe in Oasis Springs
+Orchid			Rare		Spring, Winter	$225	36h	Found in Rare Seed packets (buy on computer/buy mode with high level gardening). Also Graft Lily with Snapdragon. This is also found after completing the Space Rock collection from the Rocket Science Skill.
+Parsley			Common		Spring, Summer	$2	24h	Seed Packet. Graft Sage and Basil.
+Pear			Uncommon	Fall, Winter	$10	60h	Willow Creek Park, also behind Umbridge Manor (Mansion)
+Plantain		Common		Summer		$3	72h	Found in Seed Packets, but you may also Graft Pear with Lemon.
+Pomegranate		Rare		Winter		$30	72h	Graft Apple with Cherry. These have been found while Fishing in Magnolia Blossom Park, Willow Creek. I caught one in the central pond where you can also look for frogs while fishing without bait.
+Potato			Uncommon	Winter		$3	24h	Willow Creek, Garden Essence Home (BFF Household)
+Rose			Uncommon	Spring, Fall	$29	48h	Willow Creek, Behind Umbridge Manor (Mansion)
+Sage			Common		All Year?	$3	24h	Oasis Springs, end of road by Museum. Also across from Sandtrap Flat in the garden area.
+Snapdragon		Common		Spring, Fall	$16	36h	Willow Creek, Garden Essence Home (BFF Household)
+Spinach			Common		Winter		$1	24h	Seed Packet
+Strawberry		Uncommon	Spring		$9	24h	Willow Creek, Garden Essence Home (BFF Household)
+Tomato			Uncommon	Summer		$5	24h	Oasis Springs, up the road from Slipshod Mesquite (the home that looks like a trailer) are planter boxes. There you will find Tomato and some other plants.
+Trash Fruit		Rare		All Year	$1	24h	Found in Rare Seed packets (buy on computer/buy mode with high level gardening) Have your Sim take out the trash, but cancel the interaction. Let this trash sit in your yard (it can be moved in buy mode), and it'll become one very unhappy trash plant. Water it fast, and one day you'll have your very own Perfect Trash Plant.
+Tulip			Uncommon	Spring		$14	36h	Oasis Springs, near the abandoned mine down the hill behind the Landgraab Mansion.
+U.F.O.			Rare		Fall		$120	112h	Found in Rare Seed packets (buy on computer/buy mode with high level gardening) These evidently don't need watered, but do need weeded. Unidentified Fruit Object is what you harvest, but the plant is actually named Intergalactic Growth Pod. U.F.O. Fruit has been found while on adventure in the Rocket Ship. I got one while an Astronaut in an encounter with the Green Man (like Yoda). I took the weapon and defeated the Nega-Sim and got a Cowplant Berry along with an U.F.O. as a reward!
+-----------------------------------------------------------------------------------------------------------------------------
+Pineapple		Uncommon	Spring and Summer	$4	48-72h	Island Living Game Pack. Found around the islands in various locations.
+-----------------------------------------------------------------------------------------------------------------------------
+Chamomile		Common		Summer		$8	24h	The Sims 4 Outdoor Retreat Game Pack Found in Granite Falls National Park. Used in Herbalism. Eating gives +1-3 4 hour Happy Moodlet (Quality-determined)
+Toxic Chamomile		Common		Summer		$4	24h	The Sims 4 Outdoor Retreat Game Pack Found in Granite Falls National Park. Used in Herbalism. Eating gives +2 Tense Moodlet for 2h
+Elderberry		Common		Summer, Fall	$2	18h	The Sims 4 Outdoor Retreat Game Pack Found in Granite Falls National Park. Used in Herbalism. Eating gives +1-3 4 hour Happy Moodlet (Quality-determined)
+Noxious Elderberry	Common		Summer, Fall	$2	18h	The Sims 4 Outdoor Retreat Game Pack Found in Granite Falls National Park. Used in Herbalism. Eating gives +2 Sad Moodlet for 2h
+Huckleberry		Uncommon	Summer, Fall	$2	18h	The Sims 4 Outdoor Retreat Game Pack Found in Granite Falls National Park. Used in Herbalism. Eating gives +1-3 4 hour Happy Moodlet (Quality-determined)
+Muckleberry		Uncommon	Summer, Fall	$3	18h	The Sims 4 Outdoor Retreat Game Pack Found in Granite Falls National Park. Used in Herbalism. Eating gives +2 Dazed Moodlet for 2h. Dazed Sims are better targets for Romance.
+Fireleaf		Uncommon	Spring, Summer	$2	18h	The Sims 4 Outdoor Retreat Game Pack Found in Granite Falls National Park. Used in Herbalism. Eating gives +1-3 4 hour Happy Moodlet (Quality-determined)
+Poison Fireleaf		Uncommon	Spring, Summer	$2	18h	The Sims 4 Outdoor Retreat Game Pack Found in Granite Falls National Park. Used in Herbalism. Eating gives +2 Angry Moodlet for 2h
+Morel Mushroom		Rare		Spring, Summer	$36	24h	The Sims 4 Outdoor Retreat Game Pack Found in Hidden Area of Granite Falls. Used in Herbalism. Eating gives +1-3 4 hour Happy Moodlet (Quality-determined)
+False Morel Mushroom	Rare		Spring, Summer	$6	24h	The Sims 4 Outdoor Retreat Game Pack Found in Granite Falls National Park. Used in Herbalism. Eating gives +2 Uncomfortable Moodlet for 2h
+-----------------------------------------------------------------------------------------------------------------------------
+Bell Pepper		Common		Summer		$3	96h	The Sims 4 Seasons Expansion Pack Seasons Expansion Pack Found in Summer Plants Seed Packets you can purchase on the computer (and in buy mode).
+Green Peas		Common		Spring		$3	24h	The Sims 4 Seasons Expansion Pack Seasons Expansion Pack. Found in Spring Plants Seed Packets you can purchase on the computer (and in buy mode).
+Holly			Common		Fall, Winter	$3	36h	The Sims 4 Seasons Expansion Pack Seasons Expansion Pack. Found in Starter Flowers Seed Packets you can purchase on the computer (and in buy mode).
+Begonias		Uncommon	Summer, Fall	$23	60h	The Sims 4 Seasons Expansion Pack Seasons Expansion Pack. May be found in Summer seed packets.
+Christmas Rose		Uncommon	Winter		$14	36h	The Sims 4 Seasons Expansion Pack Seasons Expansion Pack. May be found in Winter seed packets?
+Crocus			Uncommon	Spring, Winter	$9	36h	The Sims 4 Seasons Expansion Pack Seasons Expansion Pack. May be found in Winter or Spring seed packets?
+Dahlia			Uncommon	Fall		$17	36h	The Sims 4 Seasons Expansion Pack Seasons Expansion Pack. May be found in Fall seed packets?
+Green Beans		Uncommon	Summer, Fall	$7	12-24h	The Sims 4 Seasons Expansion Pack Seasons Expansion Pack. May be found in Summer or Fall seed packets?
+Snowdrop		Uncommon	Winter		$5	36h	The Sims 4 Seasons Expansion Pack Seasons Expansion Pack May be found in Winter seed packets, starter flowers as well.
+Money Tree		Rare		All Year	$1,600	120h	The Sims 4 Seasons Expansion Pack Seasons Expansion Pack. Purchase at reward store for 5,000 Satisfaction. Moving money tree to your family inventory while it has 'produce' can result in you getting a seed to complete the Gardening Collection. This is also a way to get more without spending 5k satisfaction each time. -- Credit Playalot
+-----------------------------------------------------------------------------------------------------------------------------
+Garlic			Uncommon	All		$4	24h	The Sims 4 Vampires Game Pack Vampires Game Pack. Found in seed packets, harvest in Forgotten Hollow
+Plasma Fruit		Uncommon	All		$6	96h	The Sims 4 Vampires Game Pack Vampires Game Pack Harvest from behind Vlad's mansion in Forgotten Hollow
+Wolfsbane		None		All		$6	36h	The Sims 4 Vampires Game Pack Vampires Game Pack. Purchase with high level Vampire Lore Skill.
+Sixam Mosquito Trap	No Rarity	All		$23	h	The Sims 4 Vampires Game Pack Vampires Game Pack Purchase with high level Vampire Lore Skill. Does not appear in the Gardening Collection list.
+-----------------------------------------------------------------------------------------------------------------------------
+Avocado			Uncommon	All		$15	96h	The Sims 4 Jungle Adventure Game Pack Jungle Adventure Game Pack Harvest (and maybe buy) in Selvadorada (vacation world). May also come in uncommon seed packets.
+Black Beans		Uncommon	Summer, Fall	$2	36h	The Sims 4 Jungle Adventure Game Pack Jungle Adventure Game Pack. Harvest (and maybe buy) in Selvadorada (vacation world). May also come in uncommon seed packets.
+Emotion Berries		Rare		All		$5	??	The Sims 4 Jungle Adventure Game Pack Jungle Adventure Game Pack. These can be harvested outside the Jungle Temple. Comes in seven varieties: merry berry (happiness), vimberry (energy), gutsberry (confidence), flutterberry (flirty), cereberry (focused), museberry (inspired), and razzleberry (playful)
+-----------------------------------------------------------------------------------------------------------------------------
+Coconut			Uncommon	Spring and Summer	$3	24-36h	Island Living Game Pack. Found around the islands in various locations.
+Kava			Uncommon	Spring and Summer	$3	24-36h	Island Living Game Pack. Found around the islands in various locations.
+-----------------------------------------------------------------------------------------------------------------------------
+Fang Flower (Tentacle Tree)	No Rarity	Spring	$18	120h	The Sims 4 Get to Work Expansion Pack Get to Work Found on the Alien Planet Sixam.
+Glow Orb		No Rarity	Winter		$23	100h	The Sims 4 Get to Work Expansion Pack Get to Work Found on the Alien Planet Sixam.
+Quill Fruit		No Rarity	Summer		$48	80h	The Sims 4 Get to Work Expansion Pack Get to Work Found on the Alien Planet Sixam.
+
+Catnips (Four Types)	No Rarity	All		$3	36h	The Sims 4 Cats and Dogs Expansion Pack Cats and Dogs Expansion. Catnip (energized), Madnip (angry), Napnip (sleep), and Nuzzlenip (flirty) are ordered from purchase seeds on the computer. Causes emotional reaction on your pet for a few hours. Does not appear in the Gardening Collection list.
+-----------------------------------------------------------------------------------------------------------------------------
+Bizarre Fruit		Rare		All		$2	??	StrangerVille Game Pack. Buy from roadside conspiracy shop.
+-----------------------------------------------------------------------------------------------------------------------------
+Mandrake Root		Rare		Spring and Fall	$3	24-36h	Realm of Magic Game Pack. Found in collecting area through portal (look for broken down greenhouse building on a lone island).
+Valerian		Rare		Spring and Fall	$3	24-36h	Realm of Magic Game Pack. Found in collecting area through portal (look for broken down greenhouse building on a lone island).
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+

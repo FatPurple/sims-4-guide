@@ -1,0 +1,984 @@
+Sims 4 - Aspirations
+
+Athletic Aspirations
+For now, there is only one Athletic Aspiration, but more may be added later when we get Expansions. Players who choose an Athletic Aspiration will get the High Metabolism Bonus Trait, which helps Sims stay in shape and get muscular more quickly than other Sims.
+
+Bodybuilder Aspiration
+Total Satisfaction Gained: 5,050
+Reward Trait: Long Lived Lets your Sim live a longer life than other Sims, assuming there are no accidental deaths. This Reward Trait takes effect during the Elder life stage, meaning your Sim will live longer than his or her peers once they reach that age.
+
+Bodybuilder Aspiration Objectives:
+
+Milestone I: Basic Trainer
+Work Out for 8 Hours (50)
+Work Out at a Gym Venue (50)
+
+Milestone II: Exercise Demon
+Achieve Level 4 Fitness Skill (300)
+Push the Limits for One Hour while Energized (250)
+Own 2 Pieces of Workout Equipment (300)
+
+Milestone III: Fit to a T
+Achieve Level 6 Fitness Skill (500)
+Go Jogging for 2 Total Hours (350)
+Spend 10 Hours Exercising (500)
+
+Milestone IV: Bodybuilder
+Reach Level 10 Fitness Skill (1250)
+Reach Sims' Maximum Body Potential (1500)
+-->
+Creativity Aspirations
+Sims that choose an Aspiration from the Creativity category will get the Muser Bonus Trait. This Trait gives Sims better skill gains while Inspired.
+
+Bestselling Author AspirationBestselling Author Aspiration
+Total Satisfaction Gained: 4,925
+
+Reward Trait: Poetic Allows you to write the Book of Life. Writing this about a living Sim, then using it after their death will resurrect them. A truly powerful Reward.
+
+Bestselling Author Aspiration Objectives:
+
+Milestone I: Fledge-linguist
+
+Write 2 Books (75)
+Write for 1 Hour while Inspired (50)
+Milestone II: Competent Wordsmith
+
+Achieve Level 4 Writing Skill (200)
+Have Written for 15 Total Hours (200)
+Write 5 Good Books (300)
+Milestone III: Novelest Novelist
+
+Achieve Level 6 Writing Skill (500)
+Publish 10 Books (350)
+Write 5 Excellent Books (500)
+Milestone IV: Bestselling Author
+
+Achieve Level 10 Writing Skill (1000)
+Complete 3 Bestsellers (750)
+Have Earned 25,000 in Royalties Publishing Books (1000)
+Master Actor AspirationMaster Actor/Actress Aspiration
+Total Satisfaction Gained: 4,025
+
+Reward Trait: World-Renowned Actress Your Sim will never fail an acting action as far as anyone can tell... so feel free to use Risky techniques on set.
+
+Objectives
+
+Milestone I: Aspiring Actress
+
+Achieve Level 3 Acting Skill (75)
+Practice Acting for 2 Hours (50)
+Milestone II: Intermediate Actress
+
+Become an Adult
+Join the Acting Career (50)
+Earn Gold in a Commercial Acting Gig (350)
+Give a Street Performance (350)
+Milestone III: Advanced Actress
+
+Achieve Level 7 Acting Skill (400)
+Receive an Award (600)
+Earn Gold in a TV Show Acting Gig (350)
+Milestone IV: Master Actress
+
+Achieve Level 10 Acting Skill (1000)
+Place a Celebrity Tile in Starlight Boulevard (50)
+Earn Gold in a Movie Acting Gig (750)
+Master Maker AspirationMaster Maker Aspiration (Eco Lifestyle Expansion Pack)
+Total Satisfaction Gained: 4,650
+
+Reward Trait: Master Maker Master makers have learned all the tricks necessary to fabricate items at a reduced cost.
+
+Objectives
+
+Milestone I: Jerry Rigger
+
+Reach Level 3 Fabrication Skill (50)
+Recycle Items 5 Times (50)
+Milestone II: The Better Builder
+
+Reach Skill Level 5 in Fabrication (250)
+Fabricate a total 5 items (250)
+Have a total 5 Dyes (250)
+Milestone III: Competent Crafter
+
+Achieve Level 7 in Fabrication (450)
+Collect Insects from an insect farm 3 times (450)
+Craft 5 Candles (500)
+Milestone IV: Master Maker
+
+Achieve level 10 in Fabrication Skill (800)
+Make 20 Candles (600)
+Complete a total 5 Gigs as a Freelance Crafter (1000)
+Musical Genius AspirationMusical Genius Aspiration
+Total Satisfaction Gained: 4,925
+
+Reward Trait: Piper Gives a Sim new songs that have significant effects on other Sims. Under the Piper menu you'll find songs that can make Sims tired, clean house, leave, or change to formalwear.
+
+Musical Genius Aspiration Objectives:
+
+Milestone I: Tone Deaf
+
+Practice Music for 6 Hours (75)
+Listen to Music for 2 Hours (50)
+Milestone II: Fine Tuned
+
+Achieve Level 4 Skill in an Instrument (300)
+Play an Instrument for 1 Hour while Inspired (350)
+Milestone III: Harmonius
+
+Achieve Level 6 Skill in an Instrument (500)
+Write 4 Songs (400)
+Earn 500 from Licensed Songs (500)
+Milestone IV: Musical Genius
+
+Reach Level 10 Skill in an Instrument (1000)
+Have Spent 75 Hours Playing Musical Instruments (1000)
+Mentor Others in Music for 3 Hours (750)
+Painter Extraordinaire AspirationPainter Extraordinaire Aspiration
+Total Satisfaction Gained: 5,000
+
+Reward Trait: Expressionistic Lets Sims paint Emotional paintings and also books with the Writing Skill regardless of their current Emotion. With Painting, it will let you build up an emotional aura in a room if you so choose, as every painting can have its aura enabled/disabled and affects the selected emotion.
+
+Painter Extraordinaire Aspiration Objectives:
+
+Milestone I: Ill at Easel
+
+Start 3 Paintings while Inspired (75)
+Paint for 5 Hours (75)
+Milestone II: Fine Artist
+
+Achieve Level 4 Painting Skill (300)
+Sell 3 Paintings to Collectors or Art Gallery (250)
+Complete 3 Emotional Paintings (200)
+Milestone III: Brushing with Greatness
+
+Achieve Level 6 Painting Skill (500)
+View or Admire 3 Paintings at a Museum (350)
+Complete 10 Excellent Paintings (500)
+Milestone IV: Painter Extraordinaire
+
+Achieve Level 10 Painting Skill (1500)
+Complete 5 Masterpieces (1250)
+Deviance Aspirations
+Sims who take Deviance Aspirations get the Dastardly Bonus Trait, which gives them a higher success rate with their mean interactions.
+
+Chief of Mischief AspirationChief of Mischief Aspiration
+Total Satisfaction Gained: 4,425
+
+Reward Trait: Tormentor Tormentors are able to sabotage objects ("almost anything"), allowing them to pull better pranks and create chaos.
+
+Chief of Mischief Aspiration Objectives:
+
+Milestone I: Mostly Harmless
+
+Perform 10 Mean or Mischievous Interactions (50)
+Be Disliked by 2 Sims (75)
+Milestone II: Artful Trickster
+
+Use a Computer to Cause Mischief 3 Times (350)
+Achieve Level 3 Mischief Skill (300)
+Milestone III: Professional Prankster
+
+Pull 10 Pranks (550)
+Achieve Level 6 Mischief Skill (600)
+Milestone IV: Chief of Mischief
+
+Clog Drains at 3 Different Homes (750)
+Perform Voodoo 5 Times (750)
+Achieve Level 10 Mischief Skill (1000)
+Public Enemy AspirationPublic Enemy Aspiration
+Total Satisfaction Gained: 4,125
+
+Reward Trait: Mastermind Masterminds are able to inspire negative emotions in other Sims with their social interactions, knowing just the right things to say.
+
+Public Enemy Aspiration Objectives:
+
+Milestone I: Mostly Harmless
+
+Perform 10 Mean or Mischievous Interactions (50)
+Be Disliked by 2 Sims (75)
+Milestone II: Neighborhood Nuisance
+
+Be Disliked by 4 Sims (300)
+Become an Adult (0)
+Join the Criminal Career (300)
+Milestone III: Criminal Mind
+
+Have a Declared Enemy (0)
+Reach Level 4 of the Criminal Career (400)
+Get into 5 Fights (500)
+Milestone IV: Public Enemy
+
+Witness the Death of a Sim (750)
+Reach Level 8 of the Criminal Career (750)
+Have 3 Declared Enemies (1000)
+Family Aspirations
+Sims who have chosen a Family Aspiration will get the Domestic Bonus Trait which lets them form relationships with their family faster than other Sims.
+
+Big Happy Family AspirationBig Happy Family Aspiration
+Total Satisfaction Gained: 5,225
+
+Reward Trait: Patriarch Patriarchs give their children boosts to gaining Skill when they are nearby.
+
+Big Happy Family Aspiration Objectives:
+
+Milestone I: Readily a Parent
+
+Become an Adult (0)
+Spend $1,000 on Kids' Stuff (75)
+Milestone II: Caregiver
+
+Read to a Child for 2 Total Hours (150)
+Become a Parent (300)
+Socialize with your Child 10 Times (200)
+Milestone III: Loving Guardian
+
+Be Parent to a Child with 3 Friends (500)
+Be Friends with 3 of Your Children (500)
+Have a Child Get Married (500)
+Milestone IV: Big Happy Family
+
+Socialize with your Child or Grandchild 10 Times (1000)
+Have 4 Grandchildren (1000)
+Become Good Friends with 4 Children or Grandchildren (1000)
+Super Parent Aspiration (Parenthood Game Pack)
+Total Satisfaction Gained: 5,225
+
+Reward Trait: Role ModelThe Role Model reward traits produces an aura around the Sim that causes toddlers, children, and teens to gain experience in the five character values 50% faster.
+
+Super Parent Aspiration Objectives
+
+Milestone I: Readily a Parent
+
+Become an Adult (0)
+Spend $1,000 on Kids' Stuff (75)
+Milestone II: Offspring Instructor
+
+Become a Parent (300)
+Achieve Level 4 Parenting Skill (300)
+Discipline Your Child, Toddler, or Teen 5 Times (200)
+Milestone III: Character Coach
+
+Help a Child with School Work for 4 Hours (350)
+Achieve Level 6 Parenting Skill (500)
+Have a Child with a Character Value within range to receive a Trait (500)
+Milestone IV: Super Parent
+
+Achieve Level 10 Parenting Skill (1000)
+Go into Full Parent Mode (500)
+Have a Child with 3 Positive Character Value Traits (1500)
+Successful Lineage AspirationSuccessful Lineage Aspiration
+Total Satisfaction Gained: 5,325
+
+Reward Trait: Vicarious Your Children's Skill gains will contribute to your own, meaning you gain skill from their successes in their own skills.
+
+Successful Lineage Aspiration Objectives:
+
+Milestone I: Readily a Parent
+
+Become an Adult (0)
+Spend $1,000 on Kids' Stuff (75)
+Milestone II: Caregiver
+
+Read to a Child for 2 Total Hours (150)
+Become a Parent (300)
+Socialize with your Child 10 Times (200)
+Milestone III: Trusted Mentor
+
+Help a Child with Homework 3 Times (350)
+Have a Child Earn an 'A' in High School (500)
+Have a Child Max any Skill (500)
+Milestone IV: Successful Lineage
+
+Mentor your Child 3 Times (750)
+Have a Child Complete an Aspiration (1000)
+Have a Child or Grandchild reach the Top of a Career (1500)
+Vampire Family Aspiration (Vampires Game Pack)
+Total Satisfaction Gained: 5,800
+
+Reward Trait: I am the Master Mind Control Powers used on Vampire Offspring always succeed.
+
+Vampire Family Objectives
+
+
+Milestone I:
+
+Become a Vampire (300)
+Milestone II:
+
+Purchase the Vampire Creation Power (500)
+Become a Minor Vampire (500)
+Milestone III:
+
+Train 3 Offspring (750)
+Convert 5 Sims into Full Grown Vampires (750)
+Become a Prime Vampire (750)
+Milestone IV:
+
+Be Good Friends with 3 Offspring (1250)
+Become a Master Vampire (1000)
+Food Aspirations
+The Essence of Flavor Bonus Trait is gained from Food Aspirations. This increases the quality level of the food and drink they create.
+
+The Sims 4 Grilled Cheese AspirationGrilled Cheese Hidden Aspiration (Guide)
+Unlock the Grilled Cheese aspiration by eating three servings of grilled cheese in a row. Click for a guide if you need further assistance.
+
+Total Satisfaction Gained: 2,925
+
+Reward Trait: Melt Master A Melt Master is able to summon a grilled cheese to eat any time. They're also able to paint grilled cheese paintings.
+
+Grilled Cheese Aspiration Objectives:
+
+
+Milestone 1: Gouda Greenhorn
+
+Talk to 3 Different Sims About Grilled Cheese (50 Satisfaction Points)
+Eat 10 Grilled Cheese Sandwiches (75 Satisfaction Points)
+Milestone 2: Cheddar Connoisseur
+
+Eat 10 Excellent Quality Grilled Cheese Sandwiches (350 Satisfaction Points)
+Cook 3 Group Servings of Grilled Cheese Sandwiches(300 Satisfaction Points)
+Talk to 5 Different Sims About Grilled Cheese (250 Satisfaction Points)
+Milestone 3: Muenster Maniac
+
+Eat a Grilled Cheese Sandwich in Space (750 Satisfaction Points)
+Cook an Excellent Quality Grilled Cheese Sandwich (500 Satisfaction Points)
+Talk to the Grim Reaper About Grilled Cheese (650 Satisfaction Points)
+Master Chef AspirationMaster Chef Aspiration
+Total Satisfaction Gained: 4,675
+
+Reward Trait: Fresh Chef Makes your Sim always make high quality food, and it never spoils, meaning big meals can last a long time.
+
+Master Chef Aspiration Objectives:
+
+Milestone I: Aluminum Chef
+
+Cook 5 Excellent Meals (50)
+Cook 2 Meals while Inspired (75)
+Milestone II: Captain Cook
+
+Achieve Level 5 Cooking Skill (300)
+Cook a Gourmet Meal (250)
+Earn Silver at a Dinner Party Event (250)
+Milestone III: Culinary Artist
+
+Become an Adult (0)
+Reach Level 4 in the Culinary Career (500)
+Create 3 Types of Excellent Food (500)
+Milestone IV: Master Chef
+
+Achieve Level 5 of Gourmet Cooking Skill (750)
+Reach Level 8 of the Culinary Career (1000)
+Cook 3 Gourmet Dishes at a Single Event (1000)
+Master Mixologist AspirationMaster Mixologist Aspiration
+Total Satisfaction Gained: 4,425
+
+Reward Trait: Potion Master Gives your Sim the ability to mix drinks that affect other Sims' Emotions.
+
+Master Mixologist Aspiration Objectives:
+
+Milestone I: Bar Tenderfoot
+
+Mix 10 Drinks (75)
+Own a Bar and 2 Barstools (50)
+Milestone II: Electric Mixer
+
+Achieve Level 4 Mixology Skill (300)
+Become an Adult (0)
+Join the Culinary Career (250)
+Milestone III: Beverage Boss
+
+Mix 3 Drinks at a Single Social Event (0)
+Join the Mixology Branch of the Culinary Career (500)
+Achieve Level 7 in Mixology Skill (500)
+Milestone IV: Master Mixologist
+
+Achieve Level 10 Mixology Skill (1500)
+Create 5 Types of Excellent Drink (1250)
+Fortune Aspirations
+Sims that choose a Fortune Aspiration get the Business Savvy Bonus Trait which gives them higher-than-average salaries from Careers.
+
+Fabulously Wealthy AspirationFabulously Wealthy Aspiration
+Total Satisfaction Gained: 4,675
+
+Reward Trait: Shrewd Get 5% of your household funds added to the bank roll every week. Earn interest on your money!
+
+Fabulously Wealthy Aspiration Objectives:
+
+Milestone I: Going for Not Broke
+
+Have Earned $5,000 (50)
+Have $10,000 in Reserve (75)
+Milestone II: Learning Earning
+
+Have $20,000 in Reserve (300)
+Have Earned $25,000 (250)
+Milestone III: Well-off
+
+Have Earned $75,000 (500)
+Have $35,000 in Reserve (500)
+Milestone IV: Fabulously Wealthy
+
+Have Earned $200,000 (1500)
+Have $50,000 in Reserve (1500)
+Mansion Baron AspirationMansion Baron Aspiration
+Total Satisfaction Gained: 4,500
+
+Reward Trait: Thrifty Receive a 10% rebate on all build mode purchases each week. Rebates are added to household funds automatically once per week.
+
+Mansion Baron Aspiration Objectives:
+
+Milestone I: Estate of the Art
+
+Have a Home worth $50,000 (75)
+Own 15 Pieces of Art (75)
+Milestone II: The Great Landscaper
+
+Have a Home Worth $100,000 (300)
+Purchase $5,000 Worth of Landscaping (300)
+Milestone III: Home Renovator
+
+Have a Home worth $200,000 (500)
+Own 30 Windows (500)
+Milestone IV: Mansion Baron
+
+Have a Home Worth $350,000 (2000)
+Purchase 20 Columns (750)
+Knowledge Aspirations
+Sims that take a Knowledge Aspiration get the Quick Learner Bonus Trait which speeds up the experience rate of all skills!
+
+Computer Whiz AspirationComputer Whiz Aspiration
+Total Satisfaction Gained: 3,725
+
+Reward Trait: Webmaster Get the ability to Make Money Turking under the Web Category on the Computer. This lets your Sim sit there and earn a flow of money that comes in random bits every few minutes. Additionally, you may Internet Stalk to learn a Sim's Traits and go on a Research Binge that raises multiple Skills at once.
+
+Computer Whiz Aspiration Objectives:
+
+Milestone I: With the Program
+
+Practice Programming for 5 Total Hours (75)
+Play Video Games for 5 Total Hours (50)
+Milestone II: Technically Adept
+
+Maintain Focus for 2 Straight Hours of Video Gaming (250)
+Achieve Level 3 Programming Skill (150)
+Own $3,000 Worth of Electronics (200)
+Milestone III: Computer Geek
+
+Become an Adult (0)
+Reach Level 3 of the Tech Guru Career (500)
+Make a Video Game or an App (500)
+Milestone IV: Computer Whiz
+
+Reach Level 5 of the Tech Guru Career (1000)
+Have Spent 100 Hours on the Computer (1000)
+Master Vampire Aspiration (Vampires Game Pack)
+Total Satisfaction Gained: 7,950
+
+Reward Trait: A True Master Master Vampires not only excel at mind powers, but also have additional energy reserves to call upon for using them.
+
+Master Vampire Objectives
+
+Milestone I:
+
+Search a Computer for Information about Vampires (300)
+Become a Vampire (300)
+Read Encyclopedia Vampirica Vol I (300)
+Milestone II:
+
+Become a Minor Vampire (500)
+Participate in Vampire Training (500)
+Reach Level 4 Vampire Lore (300)
+Milestone III:
+
+Reach Vampire Lore Level 7 (500)
+Defeat 3 Vampires in Combat (750)
+Become a Prime Vampire (750)
+Milestone IV:
+
+Become a Grand Master Vampire (1500)
+Read the Ultimate Vampire Tome (1000)
+Survive for an Additional 20 Days as a Vampire (1250)
+Nerd Brain AspirationNerd Brain Aspiration
+Total Satisfaction Gained: 5,000
+
+Reward Trait: Handy Lets a Sim instantly Fix/Upgrade any Object, meaning this Sim will fly through the Handiness skill levels and have a fully upgraded home.
+
+Nerd Brain Aspiration Objectives:
+
+Milestone I: Prudent Student
+
+Finish Reading 3 Books (75)
+Achieve Level 3 Logic Skill (75)
+Milestone II: Erudite
+
+Repair or Upgrade an Object (250)
+Craft an object on the Woodworking Table (350)
+Achieve Level 6 Logic Skill (300)
+Milestone III: Rocket Scientist
+
+Achieve Level 5 Handiness Skill (350)
+Launch or Upgrade a Rocket 5 Times (500)
+Own a Rocket Ship (350)
+Milestone IV: Nerd Brain
+
+Achieve Level 10 Logic Skill (1500)
+Fix or Upgrade 5 Objects (1250)
+Renaissance Sim AspirationRenaissance Sim Aspiration
+Total Satisfaction Gained: 5,000
+
+Reward Trait: Professorial Allows a Sim to write books about any Skill they are well-versed in.
+
+Renaissance Sim Aspiration Objectives:
+
+Milestone I: Prudent Student
+
+Finish Reading 3 Books (75)
+Achieve Level 3 Logic Skill (75)
+Milestone II: Jack of Some Trades
+
+Become and Adult (0)
+Achieve Level 4 in 4 Skills (300)
+Reach Level 3 of Any Career (300)
+Milestone III: Pantologist
+
+Achieve Level 5 in 5 Skills (750)
+Reach Level 3 in 2 Careers (500)
+Milestone IV: Renaissance Sim
+
+Achieve Level 8 in 6 Skills (1500)
+Reach Level 3 in 3 Careers (1500)
+Location Aspirations
+Sims with a Location Aspiration get the Home Turf Reward Trait, which makes them happy when they're in their home neighborhood.
+
+Beach Life Aspiration (Island Living)
+Total Satisfaction Gained: 400
+
+Reward Trait: Laid Back Sims with the Laid Back trait will never become Stressed. I made a long Let's Play style video for this Aspiration, which can be found here on youtube.
+
+Objectives
+
+Milestone I: Tourist
+
+Get a Suntan (50)
+Get Gold in a Kava Party (50)
+Eat a Coconut (50)
+Milestone II: Sand-Sifter
+
+Find 10 Collectibles (Seashells mainly) Combing the Beach (50)
+Grill or Roast 5 Dishes (use a Grill or Island Living's In-Ground Oven) (50)
+Milestone III: Leisurely Local
+
+Explore the Cave (50)
+Find Buried Treasure (50)
+Milestone IV: Beach Fixture
+
+Doze Off on a Lounge Chair or Floatie (50)
+City Native Aspiration (City Living)
+Total Satisfaction Gained: 4,725
+
+Reward Trait: In The Know Sims with the In The Know reward trait get a massive discount on food stall purchases if they haggle with vendors.
+
+City Native Objectives
+
+Milestone I:
+
+Introduce Self to Someone New in 3 Different Neighborhoods (75)
+Give an Apartment Key to a Friend (50)
+Order 3 Times from Food Stalls (75)
+Milestone II:
+
+Achieve Level 3 in the Singing Skill (250)
+Light Fireworks at the Humor and Hijinks Festival (250)
+Use a Bubble Blower (150)
+Milestone III:
+
+Donate to a Protester (375)
+Kiss Someone at the Romance Festival (375)
+Complete a Mural at the Arts Center (375)
+Milestone IV:
+
+Win a Contest at GeekCon (750)
+Master the Singing Skill (1000)
+Own an Apartment worth $100,000 (1000)
+StrangerVille Mystery Aspiration
+Total Satisfaction Gained: ????
+
+Reward Trait: Hero of StrangerVille: Residents will send you cupcaks and letters of thanks in the mail. You'll also be able to retell of your heroic deeds with new social interactions.
+
+Objectives: Investigate the odd behaviour of the residents of the new town in The Sims 4 StrangerVille Game Pack. I will not list objectives for this one, as they are spoilers. If you'd like to follow a walkthrough of this one, visit StrangerVille Mystery Act 1 (of 4).
+
+Love Aspirations
+Sims with a Love Aspiration get the Alluring Bonus Trait, which makes Romantic Social Interactions more likely to succeed.
+
+Serial Romantic AspirationSerial Romantic Aspiration
+Total Satisfaction Gained: 4,125
+
+Reward Trait: Player This trait will avoid other Sims getting jealous, so you can have relationships with a number of Sims at once without issue.
+
+Serial Romantic Aspiration Objectives:
+
+Milestone I: Amore Amateur
+
+Have a Boyfriend or Girlfriend (50)
+Go on 2 Dates (75)
+Milestone II: Up to Date
+
+Achieve Level 4 Charisma Skill (300)
+Have had 3 First Kisses (300)
+Milestone III: Romance Juggler
+
+Achieve Level 6 Charisma Skill (500)
+Have a Strong Romantic Relationship with 3 Sims at Once (500)
+Kiss 10 Sims (400)
+Milestone IV: Serial Romantic
+
+Earn Gold on 3 Dates (1250)
+Have had 8 Boyfriends or Girlfriends (750)
+Soulmate AspirationSoulmate Aspiration
+Total Satisfaction Gained: 4,325
+
+Reward Trait: Companion You get special interactions to calm situations between your Sim and their Spouse.
+
+Soulmate Aspiration Objectives:
+
+Milestone I: Amore Amateur
+
+Have a Boyfriend or Girlfriend (50)
+Go on 2 Dates (75)
+Milestone II: Marriage Material
+
+Become an Adult (0)
+Be Married to BFF (350)
+Milestone III: Love Handler
+
+Earn Silver on 2 Dates with Spouse (600)
+Achieve Soulmate Relationship with Spouse (750)
+Milestone IV: Soulmate
+
+Perform 50 Romantic Gestures with Spouse as Soulmates (1500)
+Earn Gold on 3 Dates with Spouse (1000)
+Nature Aspirations
+Sims who choose a Nature Aspiration get the Collector Bonus Trait, which helps them to be more likely to find rare collectibles.
+
+Angling Ace AspirationAngling Ace Aspiration
+Total Satisfaction Gained: 4,150
+
+Reward Trait: Angler's Tranquility Seems it will ease any negative emotions when your Sim is fishing, allowing them to happily do so.
+
+Angling Ace Aspiration Objectives:
+
+Milestone I: Fish out of Water
+
+Catch 5 Fish (50)
+Fish at 3 Different Locations (50)
+Milestone II: Hooked
+
+Fish for 10 Total Hours (300)
+Mount or Bowl 5 Fish (250)
+Achieve Level 4 Fishing Skill (250)
+Milestone III: Reel Smart
+
+Catch 5 Fish Using Bait (400)
+Make 6 Great Catches (500)
+Achieve Level 6 Fishing Skill (350)
+Milestone IV: Angling Ace
+
+Collect 20 Types of Fish (1000)
+Achieve Level 10 Fishing Skill (1000)
+Eco Innovator AspirationEco Innovator Aspiration (Eco Lifestyle Expansion Pack)
+Total Satisfaction Gained: 2,100
+
+Reward Trait: Influential Individual When Influential Individuals speak, everyone listens. They can get the community to cheer on a local hero, or cancel them on a whim.
+
+Objectives
+
+Milestone I: Eco-Economist
+
+Own 1 Solar Panel or Wind Turbine (100)
+Sell Power or Water on a Utility Bill (100)
+Milestone II: Clean City Civilian
+
+Have 5 Community Influence Points (200)
+Vote on 1 Neighborhood Action Plan (200)
+Become a Civil Designer (250)
+Milestone III: Civil Citizen
+
+Attempt to Convince a Sim to Vote on a Neighborhood Action Plan (350)
+Vote on Neighborhood Action Plans two separate times (500)
+Reach level 10 of the Civil Designer Career (1000)
+Freelance Botanist AspirationFreelance Botanist Aspiration
+Total Satisfaction Gained: 4,825
+
+Reward Trait: Naturalist Your sim is fearless around fire, gain immunity to it, and can extinguish fires without trouble. How this relates to gardening, I have no idea... fire spread to the Garden?
+
+Freelance Botanist Aspiration Objectives:
+
+Milestone I: Naturewalker
+
+Plant Something 3 Times (50)
+Weed or Water Plants 10 Times (75)
+Milestone II: Garden Variety
+
+Achieve Level 4 Gardening Skill (350)
+Evolve 5 Different Plants (500)
+Milestone III: Nature Nurturer
+
+Achieve Level 6 Gardening Skill (500)
+Graft onto 3 Plants (400)
+Fertilize 5 Plants (200)
+Milestone IV: Freelance Botanist
+
+Achieve Level 10 Gardening Skill (750)
+Grow a Cowplant (1000)
+Evolve 10 Excellent Plants (1000)
+Outdoor Enthusiast AspirationRequires Outdoor RetreatOutdoor Enthusiast Aspiration
+Total Satisfaction Gained: 4,800
+
+Reward Trait: Survivalist Gives Sims positive Moodlets while living off the land. For example, sleeping in a Tent will give a +1 6h Happy Moodlet.
+
+Outdoor Enthusiast Aspiration Objectives:
+
+Milestone I: Greenhorn
+
+Harvest 10 Unidentified Plants (50)
+Catch 5 Fish in Granite Falls (100)
+Milestone II: Forest Scout
+
+Achieve Level 4 Herbalism Skill (250)
+Cook 2 PLates of Beetles over a Campfire (300)
+Eat 10 Plants (200)
+Milestone III: Wilderness Explorer
+
+Craft 3 Excellent Herbal Remedies (400)
+Identify All Unidentified Plants (500)
+Befriend the Hermit of Granite Falls (250)
+Milestone IV: Outdoor Enthusiast
+
+Achieve Level 10 Herbalism (750)
+Sleep for 5 Nights in a Tent (1000)
+Collect 15 Insects (1000)
+The Curator AspirationThe Curator Aspiration
+Total Satisfaction Gained: 4,075
+
+Reward Trait: Appraiser Lets your Sim sell Collectibles to the Simsonian Museum for extra money.
+
+The Curator Aspiration Objectives:
+
+Milestone I: Out and About
+
+Collect 10 Collectibles (75)
+Milestone II: Gatherer
+
+Collect 5 Crystals (250)
+Collect 3 Frogs (250)
+Collect 3 Fossils (250)
+Milestone III: Treasure Hunter
+
+Send 5 Items to the Geological Council (350)
+Breed 5 Frogs (400)
+Collect 5 Elements (500)
+Milestone IV: The Curator
+
+Complete a Collection (1250)
+Collect 25 Collectibles (750)
+Popularity Aspirations
+Popularity Aspirations come with the Gregarious Bonus Trait, which will help them build friendly relationships faster with all Sims.
+
+Friend of the World AspirationFriend of the World Aspiration
+Total Satisfaction Gained: 4,450
+
+Reward Trait: Beloved Your Sim's relationships with others stop declining with time, making it easier to be Friends with everyone.
+
+Explore My Mods! Color Picker for Builders, Seasons Tuner, Dine Out Reloaded and a Gameplay Overhaul! Like other modders, I've been working to make The Sims 4 a better game. Check out my many mods here!
+
+Friend of the World Aspiration Objectives:
+
+Milestone I: New in Town
+
+Introduce Self to 10 Sims (75)
+Have 3 Friends (75)
+Milestone II: Well Liked
+
+Meet Someone New in 3 Different Locations (300)
+Achieve Level 4 Charisma Skill (350)
+Milestone III: Super Friend
+
+Have 12 Friends (400)
+Achieve Level 6 Charisma Skill (500)
+Milestone IV: Friend of the World
+
+Have 20 Friends (1250)
+Make a BFF (750)
+Achieve Level 10 Charisma Skill (750)
+Good Vampire Aspiration (Vampires)
+Total Satisfaction Gained: 8,000
+
+Reward Trait: Regained Humanity Sims with Regained Humanity are nicer and safer to be around for other Sims. Sims are more likely to give permission to drink.
+
+Good Vampire Objectives
+
+Milestone I:
+
+Use a Computer to Search for Information on Vampires (300)
+Become a Vampire (300)
+Reach Level 3 in Vampire Lore (300)
+Milestone II:
+
+Drink a Plasma Pack (300)
+Make 5 Friends (500)
+Don't Drink Deeply for 5 Days in a Row (500)
+Reach Level 4 in Vampire Lore (300)
+Milestone III:
+
+Make 2 Good Friends (750)
+Get Permission to Drink from 2 Sims (750)
+Buy the Tamed Thirst Vampire Power (750)
+Create 3 Plasma Packs from Fish or Frogs (500)
+Milestone IV:
+
+Make a BFF (750)
+Don't Drink Without Permission for 14 Days in a Row (1000)
+Harvest from a Plasma Fruit Plant 3x in a Row (1000)
+Joke Star AspirationJoke Star Aspiration
+Total Satisfaction Gained: 4,350
+
+Reward Trait: Hilarious Your Sim's jokes will never fail, and you'll have extra interactions in that category that are great jokes.
+
+Joke Star Aspiration Objectives:
+
+Milestone I: Practical Joker
+
+Be Funny to 5 Sims (75)
+Achieve Level 3 Comedy Skill (75)
+Milestone II: Stand-up Start-up
+
+Become an Adult (0)
+Join the Entertainer Career (250)
+Own a Microphone (150)
+Milestone III: Funny Businesswoman
+
+Achieve Level 6 Comedy Skill (400)
+Join the Comedian Branch of the Entertainer Career (500)
+Write 3 Comedy Routines (400)
+Milestone IV: Joke Star
+
+Perform 3 Comedy Routines (1000)
+Achieve Level 10 Comedy Skill (1500)
+Leader of the Pack Aspiration (Get Together)
+Total Satisfaction Gained: 3,600
+
+Reward Trait: Natural Leader Attempting to take over as leader of a club always succeeds, and your Sim can't be overthrown. Also, they get a discount on club perk purchases.
+
+Leader of the Pack Objectives
+
+Milestone I: Get Accepted
+
+Start or Join a Club (75)
+Buy a Club Perk (75)
+Milestone II: Private Gathering
+
+Perform 10 Club Activities (200)
+Be in a Club Gathering for 12 Hours (400)
+Milestone III: Spread the Word
+
+Achieve Level 5 Charisma (750)
+Talk About Clubs with 5 Club Members (100)
+Milestone IV: Leader of the Pack
+
+Earn 1,000 Club Points (1000)
+Lead a Club with 8 Sims (1000)
+Party Animal AspirationParty Animal Aspiration
+Total Satisfaction Gained: 4,350
+
+Reward Trait: Perfect Host Raises the score of any Social Event your Sim throws, making it easier to earn Gold ratings.
+
+Party Animal Aspiration Objectives:
+
+Milestone I: New in Town
+
+Introduce Self to 10 Sims (75)
+Have 3 Friends (75)
+Milestone II: Welcoming Host
+
+Throw 3 Parties (150)
+Earn Silver on 3 Social Events (300)
+Milestone III: Sir Gala Had
+
+Earn Silver on 3 Thrown Parties (500)
+Attend Social Events at 5 Unique Locations (500)
+Milestone IV: Party Animal
+
+Throw 10 Social Events (1000)
+Attend 15 Social Events (750)
+Earn Gold on 2 Thrown Parties (1000)
+World Famous Celebrity AspirationWorld Famous Celebrity Aspiration
+Total Satisfaction Gained: 4,925
+
+Reward Trait: Unstoppable Fame Sims with Unstoppable Fame are immortalized Celebrities, incapable of fame decay. They will never react poorly toward paparazzi and receive an extra Fame Perk point.
+
+Objectives
+
+Milestone I: Aspring Star
+
+Become a 2 Star Celebrity (75)
+Purchase a Fame Perk (50)
+Milestone II: Somebody
+
+Become a 3 Star Celebrity (350)
+Visit a Celebrity Hot Spot (150)
+Host a Meet and Greet (250)
+Milestone III: Rising Star
+
+Become a 4 Star Celebrity (500)
+Be Asked 3 Times for a Selfie (400)
+Deal with the Paparazzi 3 Times (400)
+Milestone IV: World Famous Celebrity
+
+Become a 5 Star Celebrity (1250)
+Receive 25 Positive Responses from Inciting Cheers (750)
+Sign 3 Autographs (750)
+
+
+
+
+
+
+
+Angling Ace
+Bestselling Author
+Big Happy Family
+Bodybuilder
+Chief of Mischief
+Computer Whiz
+Fabulously Wealthy
+Freelance Botanist
+Friend of the World
+Grilled Cheese
+Joke Star
+Mansion Baron
+Master Chef
+Master Mixologist
+Musical Genius
+Nerd Brain
+Painter Extraordinaire
+Party Animal
+Public Enemy
+Renaissance Sim
+Serial Romantic
+Soulmate
+Successful Lineage
+The Curator
+
+
+Cats and Dogs Expansion - Friend of the Animals
+City Living Expansion - City Native
+Get Together Expansion - Leader of the Pack
+Jungle Adventure Game Pack - Archaeology Scholar
+Jungle Adventure Game Pack - Jungle Explorer
+Outdoor Retreat Game Pack - Outdoor Enthusiast
+Parenthood Game Pack - Super Parent
+StrangerVille Game Pack - StrangerVille Mystery Act 1 of 4 (Story-based from Strangerville)
+Vampires Game Pack - Good Vampire
+Vampires Game Pack - Master Vampire
+Vampires Game Pack - Vampire Family
